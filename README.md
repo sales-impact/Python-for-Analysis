@@ -1,3 +1,9 @@
-# Python-for-Analysis
+# Python for Analysis
 
-Link to working environment [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sales-impact/Python-for-Analysis/blob/main/Working%20environment.ipynb)
+## Welcome to Python for Analysis! The course outline is available internally.
+
+Working Environment [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sales-impact/Python-for-Analysis/blob/main/Working%20environment.ipynb)
+
+## Required Readings
+
+[How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html), an open source interactive text based on How to Think Like a Computer Scientist [A. Downey, J. Elkner, C. Meyers].
