@@ -4,6 +4,7 @@
 
  - Working Environment: Useful to have a clean programming setup [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sales-impact/Python-for-Analysis/blob/main/Working%20environment.ipynb)
  -  Module 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sales-impact/Python-for-Analysis/blob/main/Module%201.ipynb)
+ -  Module 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sales-impact/Python-for-Analysis/blob/main/Module%202.ipynb)
 
 ## Required Readings Overview
 
